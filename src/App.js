@@ -8,7 +8,7 @@ function App() {
         <h1 className='text-center'>Convertidor de texto</h1>
         <div className='row'>
           <Textarea />
-          <div className='col-md-6 preview'>AQUI VA EL PREVIEWER</div>
+          
         </div>  
       </div>
     </div>
